@@ -37,4 +37,4 @@ for(let i = 78; i <= 98; i++) {
         sum = sum + i;
     }
 }
-// console.log('Sum of odd numbers:', sum);
+console.log('Sum of odd numbers:', sum);
